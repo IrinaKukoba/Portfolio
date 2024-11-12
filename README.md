@@ -9,7 +9,6 @@
 - JavaScript
 - Git
 - GitHub
-- 
 
 ## Связаться со мной
 - [Email](mailto:kukoba.i@yandex.ru)
